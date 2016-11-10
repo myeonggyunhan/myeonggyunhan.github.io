@@ -11,3 +11,10 @@
 ## Deploy
   
 Just type `make deploy`
+
+## History
+
+- 2016.10.22. - **Create profile page**  
+- 2016.11.14. - **Update DATE'17 CHRT**  
+
+
