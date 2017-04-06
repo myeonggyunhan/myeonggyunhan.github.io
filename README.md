@@ -14,7 +14,6 @@ Just type `make deploy`
 
 ## History
 
-- 2016.10.22. - **Create profile page**  
-- 2016.11.14. - **Update DATE'17 CHRT**  
-
-
+- 2016.10.22. - **Create initial profile page**  
+- 2016.11.14. - **Add new publication (DATE'17 CHRT)**  
+- 2017.04.06. - **Update DATE'17 CHRT**  

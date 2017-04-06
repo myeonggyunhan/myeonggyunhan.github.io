@@ -19,7 +19,7 @@ Ulsan, South Korea.
     March 2013 -  
   
 ### <i class="fa fa-book"></i> Publications  
-  - **Myeonggyun Han**, Jinsu Park, and Woongki Baek, *CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications*, in the Proceedings of the 2017 Design, Automation & Test in Europe Conference & Exhibition ([DATE](https://www.date-conference.com/date17/)), Mar. 2017 (to appear).
+  - **Myeonggyun Han**, Jinsu Park, and Woongki Baek, *CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications*, in the Proceedings of the 2017 Design, Automation & Test in Europe Conference & Exhibition ([DATE](https://www.date-conference.com/date17/)), Mar. 2017.
   - Jinsu Park, **Myeonggyun Han**, Woongki Baek, *Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads*, IEEE International Symposium on Workload Characterization ([IISWC](http://www.iiswc.org/iiswc2016/index.html)) Providence, Rhode Island, USA, Sept. 2016.
   
 ### <i class="fa fa-briefcase"></i> Experience  
