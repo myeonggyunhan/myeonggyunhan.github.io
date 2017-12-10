@@ -17,3 +17,4 @@ Just type `make deploy`
 - 2016.10.22. - **Create initial profile page**  
 - 2016.11.14. - **Add new publication (DATE'17 CHRT)**  
 - 2017.04.06. - **Update DATE'17 CHRT**  
+- 2017.12.11. - **Add UUPA Prize**  
