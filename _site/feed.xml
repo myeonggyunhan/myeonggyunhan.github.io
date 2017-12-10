@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-10-22T21:18:40+09:00</updated><id>/</id><title>Myeonggyun Han (L34P)</title><subtitle>B.S. student in UNIST</subtitle><entry><title>Profile</title><link href="/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2016-10-22T00:00:00+09:00</published><updated>2016-10-22T00:00:00+09:00</updated><id>/Profile</id><content type="html" xml:base="/Profile/">&lt;p&gt;B.S. student&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2017-12-11T00:57:00+09:00</updated><id>http://0.0.0.0:8000/</id><title type="html">Myeonggyun Han (L34P)</title><subtitle>B.S. student in UNIST</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2017-12-11T00:00:00+09:00</published><updated>2017-12-11T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/">&lt;p&gt;B.S. student&lt;br /&gt;
 School of Electrical and Computer Engineering&lt;br /&gt;
 Ulsan National Institue of Science and Technology (&lt;a href=&quot;http://unist.ac.kr&quot;&gt;UNIST&lt;/a&gt;)&lt;br /&gt;
 Ulsan, South Korea.  &lt;br /&gt;
 &lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:hmg0228@gmail.com&quot;&gt; hmg0228@gmail.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;i-classfa-fa-childi-interests&quot;&gt;&lt;i class=&quot;fa fa-child&quot;&gt;&lt;/i&gt; Interests&lt;/h3&gt;
+&lt;h3 id=&quot;-interests&quot;&gt;&lt;i class=&quot;fa fa-child&quot;&gt;&lt;/i&gt; Interests&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;High-performance big data computing&lt;/li&gt;
   &lt;li&gt;Operating system design and implementation&lt;/li&gt;
+  &lt;li&gt;High-performance big data computing&lt;/li&gt;
   &lt;li&gt;Computer system security&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;i-classfa-fa-graduation-capi-education&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap&quot;&gt;&lt;/i&gt; Education&lt;/h3&gt;
+&lt;h3 id=&quot;-education&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap&quot;&gt;&lt;/i&gt; Education&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Currently, B.S. Computer Science and Engineering,&lt;br /&gt;
 Ulsan National Institue of Science and Technology (UNIST)&lt;br /&gt;
 March 2013 -&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;i-classfa-fa-booki-publications&quot;&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Publications&lt;/h3&gt;
+&lt;h3 id=&quot;-publications&quot;&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Publications&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Jinsu Park, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, Woongki Baek, &lt;em&gt;Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads&lt;/em&gt;, IEEE International Symposium on Workload Characterization (&lt;a href=&quot;http://www.iiswc.org/iiswc2016/index.html&quot;&gt;IISWC 2016&lt;/a&gt;) Providence, Rhode Island, USA, Sept. 2016.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, Jinsu Park, and Woongki Baek, &lt;em&gt;CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications&lt;/em&gt;, in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (&lt;a href=&quot;https://www.date-conference.com/date17/&quot;&gt;DATE&lt;/a&gt;), Mar. 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jinsu Park, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, Woongki Baek, &lt;em&gt;Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads&lt;/em&gt;, IEEE International Symposium on Workload Characterization (&lt;a href=&quot;http://www.iiswc.org/iiswc2016/index.html&quot;&gt;IISWC&lt;/a&gt;) Providence, Rhode Island, USA, Sept. 2016.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;i-classfa-fa-briefcasei-experience&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt; Experience&lt;/h3&gt;
+&lt;h3 id=&quot;-experience&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt; Experience&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Internship&lt;/strong&gt;
     &lt;ul&gt;
@@ -38,81 +43,24 @@ December 2014 -&lt;/li&gt;
 March 2014 - March 2015&lt;/li&gt;
       &lt;li&gt;Staff, &lt;a href=&quot;https://www.facebook.com/seoneforum&quot;&gt;Security One Forum&lt;/a&gt;&lt;br /&gt;
 November 2014 - March 2015&lt;/li&gt;
-      &lt;li&gt;Student Mentor, 1th Super computing youth camp at UNIST&lt;br /&gt;
+      &lt;li&gt;Student mentor, 1st Super computing youth camp at UNIST&lt;br /&gt;
 August 2015&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;i-classfa-fa-trophyi-awards&quot;&gt;&lt;i class=&quot;fa fa-trophy&quot;&gt;&lt;/i&gt; Awards&lt;/h3&gt;
+&lt;h3 id=&quot;-awards&quot;&gt;&lt;i class=&quot;fa fa-trophy&quot;&gt;&lt;/i&gt; Awards&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.whitehatcontest.kr/&quot;&gt;2014 Korea Whitehat Contest&lt;/a&gt; :: Finalist (&lt;a href=&quot;http://hexa-unist.github.io/about/&quot;&gt;HeXA&lt;/a&gt;)
+  &lt;li&gt;&lt;strong&gt;Second Prize&lt;/strong&gt;, &lt;a href=&quot;http://cse.unist.ac.kr/11-24/&quot;&gt;Naver UNIST Undergraduate Poster Award 2017&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Awarded by Naver and faculty of UNIST ECE vote &lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Finalist&lt;/strong&gt;, &lt;a href=&quot;http://www.whitehatcontest.kr/&quot;&gt;2014 Korea Whitehat Contest&lt;/a&gt; (Team &lt;a href=&quot;http://hexa-unist.github.io/about/&quot;&gt;HeXA&lt;/a&gt;)
     &lt;ul&gt;
       &lt;li&gt;Held by Ministry of National Defense and National Intelligence Service&lt;/li&gt;
       &lt;li&gt;5th place at preliminary contest&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;i-classfa-fa-codei-personal-projects&quot;&gt;&lt;i class=&quot;fa fa-code&quot;&gt;&lt;/i&gt; Personal Projects&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;TODO&lt;/li&gt;
-&lt;/ul&gt;</content><summary>B.S. student
-School of Electrical and Computer Engineering
-Ulsan National Institue of Science and Technology (UNIST)
-Ulsan, South Korea.  
- hmg0228@gmail.com
-
- Interests
-
-  High-performance big data computing
-  Operating system design and implementation
-  Computer system security
-
-
- Education
-
-  Currently, B.S. Computer Science and Engineering,
-Ulsan National Institue of Science and Technology (UNIST)
-March 2013 -
-
-
- Publications
-
-  Jinsu Park, Myeonggyun Han, Woongki Baek, Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads, IEEE International Symposium on Workload Characterization (IISWC 2016) Providence, Rhode Island, USA, Sept. 2016.
-
-
- Experience
-
-  Internship
-    
-      Computer Architecture and Systems Lab, UNIST
-Advisor: Woongki Baek
-December 2014 -
-    
-  
-  Campus Activity
-    
-      President, HeXA (a computer security research group) at UNIST
-March 2014 - March 2015
-      Staff, Security One Forum
-November 2014 - March 2015
-      Student Mentor, 1th Super computing youth camp at UNIST
-August 2015
-    
-  
-
-
- Awards
-
-  2014 Korea Whitehat Contest :: Finalist (HeXA)
-    
-      Held by Ministry of National Defense and National Intelligence Service
-      5th place at preliminary contest
-    
-  
-
-
- Personal Projects
-
-  TODO</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">B.S. student School of Electrical and Computer Engineering Ulsan National Institue of Science and Technology (UNIST) Ulsan, South Korea. hmg0228@gmail.com Interests Operating system design and implementation High-performance big data computing Computer system security Education Currently, B.S. Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST) March 2013 - Publications Myeonggyun Han, Jinsu Park, and Woongki Baek, CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications, in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE), Mar. 2017. Jinsu Park, Myeonggyun Han, Woongki Baek, Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads, IEEE International Symposium on Workload Characterization (IISWC) Providence, Rhode Island, USA, Sept. 2016. Experience Internship Computer Architecture and Systems Lab, UNIST Advisor: Woongki Baek December 2014 - Campus Activity President, HeXA (a computer security research group) at UNIST March 2014 - March 2015 Staff, Security One Forum November 2014 - March 2015 Student mentor, 1st Super computing youth camp at UNIST August 2015 Awards Second Prize, Naver UNIST Undergraduate Poster Award 2017 Awarded by Naver and faculty of UNIST ECE vote Finalist, 2014 Korea Whitehat Contest (Team HeXA) Held by Ministry of National Defense and National Intelligence Service 5th place at preliminary contest</summary></entry></feed>
