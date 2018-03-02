@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2018-01-30T14:19:21+09:00</updated><id>http://0.0.0.0:8000/</id><title type="html">Myeonggyun Han (L34P)</title><subtitle>B.S. student in UNIST</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2018-01-30T00:00:00+09:00</published><updated>2018-01-30T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/">&lt;p&gt;B.S. student&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2018-03-02T14:13:46+09:00</updated><id>http://0.0.0.0:8000/</id><title type="html">Myeonggyun Han (L34P)</title><subtitle>First-year graduate student in UNIST</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2018-03-02T00:00:00+09:00</published><updated>2018-03-02T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/">&lt;p&gt;First-year integrated M.S/Ph.D. student&lt;br /&gt;
 School of Electrical and Computer Engineering&lt;br /&gt;
 Ulsan National Institue of Science and Technology (&lt;a href=&quot;http://unist.ac.kr&quot;&gt;UNIST&lt;/a&gt;)&lt;br /&gt;
-Ulsan, South Korea.  &lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:hmg0228@gmail.com&quot;&gt; hmg0228@gmail.com&lt;/a&gt;&lt;/p&gt;
+Ulsan, South Korea.&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:hmg0228@unist.ac.kr&quot;&gt; hmg0228@unist.ac.kr&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;-interests&quot;&gt;&lt;i class=&quot;fa fa-child&quot;&gt;&lt;/i&gt; Interests&lt;/h3&gt;
 &lt;ul&gt;
@@ -13,9 +13,13 @@ Ulsan, South Korea.  &lt;br /&gt;
 
 &lt;h3 id=&quot;-education&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap&quot;&gt;&lt;/i&gt; Education&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Currently, B.S. Computer Science and Engineering,&lt;br /&gt;
-Ulsan National Institue of Science and Technology (UNIST)&lt;br /&gt;
-March 2013 -&lt;/li&gt;
+  &lt;li&gt;M.S/Ph.D. Integrated Program. Computer Science and Engineering,&lt;br /&gt;
+Ulsan National Institue of Science and Technology (UNIST), Korea&lt;br /&gt;
+Advisor: &lt;a href=&quot;https://sites.google.com/site/woongkibaek/&quot;&gt;Prof. Woongki Baek&lt;/a&gt;&lt;br /&gt;
+March 2018 -&lt;/li&gt;
+  &lt;li&gt;B.S. Computer Science and Engineering,&lt;br /&gt;
+Ulsan National Institue of Science and Technology (UNIST), Korea  &lt;br /&gt;
+March 2013 - February 2018&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;-publications&quot;&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Publications&lt;/h3&gt;
@@ -36,8 +40,9 @@ March 2013 -&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Internship&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://casl.unist.ac.kr&quot;&gt;Computer Architecture and Systems Lab&lt;/a&gt;, UNIST&lt;br /&gt;
-Advisor: Woongki Baek&lt;br /&gt;
-December 2014 -&lt;/li&gt;
+Advisor: &lt;a href=&quot;https://sites.google.com/site/woongkibaek/&quot;&gt;Prof. Woongki Baek&lt;/a&gt;&lt;br /&gt;
+December 2014 - February 2018 &lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Campus Activity&lt;/strong&gt;
@@ -66,4 +71,4 @@ August 2015&lt;/li&gt;
       &lt;li&gt;5th place at preliminary contest&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">B.S. student School of Electrical and Computer Engineering Ulsan National Institue of Science and Technology (UNIST) Ulsan, South Korea. hmg0228@gmail.com Interests Operating system design and implementation High-performance big data computing Computer system security Education Currently, B.S. Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST) March 2013 - Publications Myeonggyun Han, Seongdae Yu, and Woongki Baek, Secure and Dynamic Core and Cache Partitioning for Safe and Efficient Server Consolidation, in the Proceedings of the 18th IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2018), May. 2018 (to appear). Myeonggyun Han, Jinsu Park, and Woongki Baek, CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications, in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE), Mar. 2017. Jinsu Park, Myeonggyun Han, Woongki Baek, Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads, IEEE International Symposium on Workload Characterization (IISWC) Providence, Rhode Island, USA, Sept. 2016. Experience Internship Computer Architecture and Systems Lab, UNIST Advisor: Woongki Baek December 2014 - Campus Activity President, HeXA (a computer security research group) at UNIST March 2014 - March 2015 Staff, Security One Forum November 2014 - March 2015 Student mentor, 1st Super computing youth camp at UNIST August 2015 Awards Silver Prize, Naver UNIST Undergraduate Poster Award 2017 The second place among the 31 participating teams Finalist, 2014 Korea Whitehat Contest (Team HeXA) Held by Ministry of National Defense and National Intelligence Service 5th place at preliminary contest</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">First-year integrated M.S/Ph.D. student School of Electrical and Computer Engineering Ulsan National Institue of Science and Technology (UNIST) Ulsan, South Korea. hmg0228@unist.ac.kr Interests Operating system design and implementation High-performance big data computing Computer system security Education M.S/Ph.D. Integrated Program. Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST), Korea Advisor: Prof. Woongki Baek March 2018 - B.S. Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST), Korea March 2013 - February 2018 Publications Myeonggyun Han, Seongdae Yu, and Woongki Baek, Secure and Dynamic Core and Cache Partitioning for Safe and Efficient Server Consolidation, in the Proceedings of the 18th IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2018), May. 2018 (to appear). Myeonggyun Han, Jinsu Park, and Woongki Baek, CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications, in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE), Mar. 2017. Jinsu Park, Myeonggyun Han, Woongki Baek, Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads, IEEE International Symposium on Workload Characterization (IISWC) Providence, Rhode Island, USA, Sept. 2016. Experience Internship Computer Architecture and Systems Lab, UNIST Advisor: Prof. Woongki Baek December 2014 - February 2018 Campus Activity President, HeXA (a computer security research group) at UNIST March 2014 - March 2015 Staff, Security One Forum November 2014 - March 2015 Student mentor, 1st Super computing youth camp at UNIST August 2015 Awards Silver Prize, Naver UNIST Undergraduate Poster Award 2017 The second place among the 31 participating teams Finalist, 2014 Korea Whitehat Contest (Team HeXA) Held by Ministry of National Defense and National Intelligence Service 5th place at preliminary contest</summary></entry></feed>

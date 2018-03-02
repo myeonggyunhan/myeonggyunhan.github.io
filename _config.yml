@@ -6,7 +6,8 @@
 name: Myeonggyun Han (L34P)
 
 # Short bio or description (displayed in the header)
-description: B.S. student in UNIST
+#description: First-year integrated M.S/Ph.D student in UNIST
+description: First-year graduate student in UNIST
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -18,7 +19,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hmg0228@gmail.com
+  email: hmg0228@unist.ac.kr
   facebook: secondcrow
   flickr:
   github: L34p

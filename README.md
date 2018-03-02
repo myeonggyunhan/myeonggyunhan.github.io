@@ -19,3 +19,4 @@ Just type `make deploy`
 - 2017.04.06. - **Update DATE'17 CHRT**  
 - 2017.12.11. - **Add UUPA Prize**  
 - 2018.01.30. - **Add new publication (CCGrid'18 SDCP)**
+- 2018.03.02. - **Update education. Enter to the graduate school.**
