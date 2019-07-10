@@ -21,4 +21,4 @@ Just type `make deploy`
 - 2018.01.30. - **Add new publication (CCGrid'18 SDCP)**
 - 2018.03.02. - **Update education. Enter to the graduate school.**
 - 2018.06.23. - **Add new publication (PACT'18 HyPart)**
-- 2019.07.09. - **Add new publication (PACT'19 MOSAIC)**
+- 2019.07.10. - **Add new publication (PACT'19 MOSAIC)**
