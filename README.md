@@ -15,11 +15,11 @@ Just type `make deploy`
 ## History
 
 - 2016.10.22. - **Create an initial profile page**  
-- 2016.11.14. - **Add new publication (DATE'17 CHRT)**  
+- 2016.11.14. - **Add new publication (CHRT, DATE'17)**  
 - 2017.04.06. - **Update DATE'17 CHRT**  
 - 2017.12.11. - **Add UUPA Prize**  
-- 2018.01.30. - **Add new publication (CCGrid'18 SDCP)**
+- 2018.01.30. - **Add new publication (SDCP, CCGrid'18)**
 - 2018.03.02. - **Update education. Enter to the graduate school.**
-- 2018.06.23. - **Add new publication (PACT'18 HyPart)**
-- 2019.07.10. - **Add new publication (PACT'19 MOSAIC)**
-- 2019.10.21. - **Add new publication (TC HALO)**
+- 2018.06.23. - **Add new publication (HyPart, PACT'18)**
+- 2019.07.10. - **Add new publication (MOSAIC, PACT'19)**
+- 2019.10.21. - **Add new publication (HALO, TC)**
