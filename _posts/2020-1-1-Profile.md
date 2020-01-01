@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Second-year integrated M.S/Ph.D. student  
+Third-year integrated M.S/Ph.D. student  
 School of Electrical and Computer Engineering  
 Ulsan National Institue of Science and Technology ([UNIST](http://unist.ac.kr))  
 Ulsan, South Korea.  
