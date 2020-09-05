@@ -23,3 +23,4 @@ Just type `make deploy`
 - 2018.06.23. - **Add new publication (HyPart, PACT'18)**
 - 2019.07.10. - **Add new publication (MOSAIC, PACT'19)**
 - 2019.10.21. - **Add new publication (HALO, TC 2020)**
+- 2020.09.05. - **Add new publication (SDRP, TSC 2020)**
