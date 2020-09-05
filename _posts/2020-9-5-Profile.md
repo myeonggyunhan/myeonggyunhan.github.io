@@ -26,7 +26,7 @@ Ulsan, South Korea.
   
 ### <i class="fa fa-book"></i> Publications  
   
-  - **Myeonggyun Han** and Woongki Baek, *SDRP: Safe, Efficient, and SLO-Aware Workload Consolidation through Secure and Dynamic Resource Partitioning*, in the IEEE Transactions on Services Computing (TSC), Accepted.  
+  - **Myeonggyun Han** and Woongki Baek, *SDRP: Safe, Efficient, and SLO-Aware Workload Consolidation through Secure and Dynamic Resource Partitioning*, in the IEEE Transactions on Services Computing ([TSC](https://www.computer.org/csdl/journal/sc)), Accepted.  
     
   - **Myeonggyun Han**, Jihoon Hyun, Seongbeom Park, and Woongki Baek, *Hotness- and Lifetime-Aware Data Placement and Migration for High-Performance Deep Learning on Heterogeneous Memory Systems*, in the IEEE Transactions on Computers ([TC](https://www.computer.org/csdl/journal/tc)), 2020.  
     
