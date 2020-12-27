@@ -16,7 +16,7 @@ Just type `make deploy`
 
 - 2016.10.22. - **Create an initial profile page**  
 - 2016.11.14. - **Add new publication (CHRT, DATE'17)**  
-- 2017.12.11. - **Add new honors/awards (Naver UUPA Prize)**  
+- 2017.12.11. - **Add new honors/awards (NAVER UUPA Prize)**  
 - 2018.01.30. - **Add new publication (SDCP, CCGrid'18)**
 - 2018.03.02. - **Update education. Enter graduate school (UNIST).**
 - 2018.03.22. - **Add new honors/awards (Best paper finalist at CCGrid'18)**  
