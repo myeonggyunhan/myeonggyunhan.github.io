@@ -22,7 +22,8 @@ Just type `make deploy`
 - 2018.03.22. - **Add new honors/awards (Best paper finalist at CCGrid'18)**  
 - 2018.06.23. - **Add new publication (HyPart, PACT'18)**
 - 2019.07.10. - **Add new publication (MOSAIC, PACT'19)**
-- 2019.10.21. - **Add new publication (HALO, TC 2020)**
-- 2020.09.05. - **Add new publication (SDRP, TSC 2020)**
-- 2020.09.29. - **Add new publication (CHRT, TPDS 2020)**
+- 2019.10.21. - **Add new publication (HALO, TC'20)**
+- 2020.09.05. - **Add new publication (SDRP, TSC (Accepted))**
+- 2020.09.29. - **Add new publication (CHRT, TPDS (Accepted))**
 - 2020.12.24. - **Add new honors/awards (NAVER Ph.D. Fellowship Award)**  
+- 2021.02.07. - **Add new publication (PALM, IPDPS'21)**
