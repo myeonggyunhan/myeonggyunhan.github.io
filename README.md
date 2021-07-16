@@ -24,6 +24,7 @@ Just type `make deploy`
 - 2019.07.10. - **Add new publication (MOSAIC, PACT'19)**
 - 2019.10.21. - **Add new publication (HALO, TC'20)**
 - 2020.09.05. - **Add new publication (SDRP, TSC (Accepted))**
-- 2020.09.29. - **Add new publication (CHRT, TPDS (Accepted))**
+- 2020.09.29. - **Add new publication (CHRT, TPDS'21)**
 - 2020.12.24. - **Add new honors/awards (NAVER Ph.D. Fellowship Award)**  
 - 2021.02.07. - **Add new publication (PALM, IPDPS'21)**
+- 2021.07.16. - **Add new publication (HERTI, PACT'21)**
