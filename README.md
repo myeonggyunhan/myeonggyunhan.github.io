@@ -28,3 +28,4 @@ Just type `make deploy`
 - 2020.12.24. - **Add new honors/awards (NAVER Ph.D. Fellowship Award)**  
 - 2021.02.07. - **Add new publication (PALM, IPDPS'21)**
 - 2021.07.16. - **Add new publication (HERTI, PACT'21)**
+- 2021.11.05. - **Add new publication (DPrime+DAbort, HPCA'22)**
