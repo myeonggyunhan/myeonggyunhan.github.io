@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2022-04-10T20:28:55+09:00</updated><id>http://0.0.0.0:8000/</id><title type="html">Myeonggyun Han</title><subtitle>Fifth-year graduate student in UNIST</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2022-01-06T00:00:00+09:00</published><updated>2022-01-06T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/">&lt;p&gt;Fifth-year integrated M.S/Ph.D. student&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2022-04-10T23:15:32+09:00</updated><id>http://0.0.0.0:8000/</id><title type="html">Myeonggyun Han</title><subtitle>Fifth-year graduate student in UNIST</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2022-01-06T00:00:00+09:00</published><updated>2022-01-06T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/">&lt;p&gt;Fifth-year integrated M.S/Ph.D. student&lt;br /&gt;
+Intelligent System Software Lab (&lt;a href=&quot;http://issl.unist.ac.kr&quot;&gt;ISSL&lt;/a&gt;)&lt;br /&gt;
 Department of Computer Science and Engineering&lt;br /&gt;
 Ulsan National Institue of Science and Technology (&lt;a href=&quot;http://unist.ac.kr&quot;&gt;UNIST&lt;/a&gt;)&lt;br /&gt;
 Ulsan, South Korea.&lt;br /&gt;
 &lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:hmg0228@unist.ac.kr&quot;&gt; hmg0228@unist.ac.kr&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;-interests&quot;&gt;&lt;i class=&quot;fa fa-child&quot;&gt;&lt;/i&gt; Interests&lt;/h3&gt;
+&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;High-performance machine learning and big data computing&lt;/li&gt;
   &lt;li&gt;High-performance and energy-efficient parallel computing on embedded systems&lt;/li&gt;
@@ -12,7 +13,7 @@ Ulsan, South Korea.&lt;br /&gt;
   &lt;li&gt;Computer systems security&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-education&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap&quot;&gt;&lt;/i&gt; Education&lt;/h3&gt;
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Combined M.S./Ph.D. in Computer Science and Engineering,&lt;br /&gt;
 Ulsan National Institue of Science and Technology (UNIST), Korea&lt;br /&gt;
@@ -23,11 +24,10 @@ Ulsan National Institue of Science and Technology (UNIST), Korea  &lt;br /&gt;
 March 2013 - February 2018&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-publications&quot;&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Publications&lt;/h3&gt;
-
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Sowoong Kim, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, and Woongki Baek, “DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX,” in the Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&quot;https://hpca-conf.org/2022/&quot;&gt;HPCA&lt;/a&gt;), Feb. 2022 (to appear).&lt;/p&gt;
+    &lt;p&gt;Sowoong Kim, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, and Woongki Baek, “DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX,” in the Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture (&lt;a href=&quot;https://hpca-conf.org/2022/&quot;&gt;HPCA&lt;/a&gt;), Apr. 2022.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Myeonggyun Han&lt;/strong&gt; and Woongki Baek, “HERTI: a Reinforcement Learning-Augmented System for Efficient Real-Time Inference on Heterogeneous Embedded Systems,” in the Proceedings of the 30th International Conference on Parallel Architectures and Compilation Techniques (&lt;a href=&quot;http://pact21.snu.ac.kr/&quot;&gt;PACT&lt;/a&gt;), Sept. 2021.&lt;/p&gt;
@@ -64,29 +64,32 @@ March 2013 - February 2018&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-experience&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt; Experience&lt;/h3&gt;
+&lt;h2 id=&quot;patents&quot;&gt;Patents&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Internship&lt;/strong&gt;
+  &lt;li&gt;&lt;strong&gt;Method and Apparatus of Partitioning Memory Bandwidth of System&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Undergraduate Researcher, &lt;a href=&quot;http://issl.unist.ac.kr&quot;&gt;Intelligent System Software Lab&lt;/a&gt; at UNIST&lt;br /&gt;
-Advisor: &lt;a href=&quot;https://sites.google.com/site/woongkibaek/&quot;&gt;Prof. Woongki Baek&lt;/a&gt;&lt;br /&gt;
-December 2014 - February 2018 &lt;br /&gt;
+      &lt;li&gt;Woongki Baek, Jinsu Park, Seongbeom Park, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, and Jihoon Hyun&lt;/li&gt;
+      &lt;li&gt;US Patent No. US 11163705, November 2021.&lt;/li&gt;
+      &lt;li&gt;Korean Patent No. 10-2132598, July 2020.&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Campus Activity&lt;/strong&gt;
+  &lt;li&gt;&lt;strong&gt;Apparatus and Method for Redistributing Hardware Resources for Server Consolidation&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;President, &lt;a href=&quot;https://hexa-unist.github.io/about/&quot;&gt;HeXA&lt;/a&gt; (a computer security research club) at UNIST&lt;br /&gt;
-March 2014 - February 2015&lt;/li&gt;
-      &lt;li&gt;Staff, &lt;a href=&quot;https://www.facebook.com/seoneforum&quot;&gt;Security One Forum&lt;/a&gt;&lt;br /&gt;
-November 2014 - March 2015&lt;/li&gt;
-      &lt;li&gt;Student mentor, 1st Super computing youth camp at UNIST&lt;br /&gt;
-August 2015&lt;/li&gt;
+      &lt;li&gt;Woongki Baek, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, and Seongdae Yu&lt;/li&gt;
+      &lt;li&gt;Korean Patent No. 10-2045039, November 2020.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Runtime Management Apparatus for Heterogeneous Multi-Processing System and Method Thereof&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Woongki Baek, &lt;strong&gt;Myeonggyun Han&lt;/strong&gt;, and Jinsu Park&lt;/li&gt;
+      &lt;li&gt;Korean Patent No. 10-2022972, September 2019.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-honors-and-awards&quot;&gt;&lt;i class=&quot;fa fa-trophy&quot;&gt;&lt;/i&gt; Honors and Awards&lt;/h3&gt;
+&lt;h2 id=&quot;honors-and-awards&quot;&gt;Honors and Awards&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;NAVER Ph.D. Fellowship Award&lt;/strong&gt;, 2020
     &lt;ul&gt;
@@ -114,4 +117,38 @@ August 2015&lt;/li&gt;
       &lt;li&gt;5th place at preliminary contest&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Fifth-year integrated M.S/Ph.D. student Department of Computer Science and Engineering Ulsan National Institue of Science and Technology (UNIST) Ulsan, South Korea. hmg0228@unist.ac.kr Interests High-performance machine learning and big data computing High-performance and energy-efficient parallel computing on embedded systems Resource management techniques for efficient cloud computing Computer systems security Education Combined M.S./Ph.D. in Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST), Korea Advisor: Prof. Woongki Baek March 2018 - Present B.S. in Computer Science and Engineering, Mathematical Science, Ulsan National Institue of Science and Technology (UNIST), Korea March 2013 - February 2018 Publications Sowoong Kim, Myeonggyun Han, and Woongki Baek, “DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX,” in the Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb. 2022 (to appear). Myeonggyun Han and Woongki Baek, “HERTI: a Reinforcement Learning-Augmented System for Efficient Real-Time Inference on Heterogeneous Embedded Systems,” in the Proceedings of the 30th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2021. Jinsu Park, Seongbeom Park, Myeonggyun Han, and Woongki Baek, “PALM: Progress- and Locality-Aware Adaptive Task Migration for Efficient Thread Packing,” in the Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2021. Myeonggyun Han, Jinsu Park, and Woongki Baek, “Design and Implementation of a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications,” in the IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021. Myeonggyun Han and Woongki Baek, “SDRP: Safe, Efficient, and SLO-Aware Workload Consolidation through Secure and Dynamic Resource Partitioning,” in the IEEE Transactions on Services Computing (TSC), Accepted. Myeonggyun Han, Jihoon Hyun, Seongbeom Park, and Woongki Baek, “Hotness- and Lifetime-Aware Data Placement and Migration for High-Performance Deep Learning on Heterogeneous Memory Systems,” in the IEEE Transactions on Computers (TC), 2020. Myeonggyun Han, Jihoon Hyun, Seongbeom Park, Jinsu Park, and Woongki Baek, “MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference,” in the Proceedings of the 28th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2019. Jinsu Park, Seongbeom Park, Myeonggyun Han, and Woongki Baek, “POSTER: The Performance Impact of Thread Packing on Synchronization-Intensive Applications,” in the Proceedings of the 28th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2019 (Poster). Jinsu Park, Seongbeom Park, Myeonggyun Han, Jihoon Hyun, and Woongki Baek, “HyPart: A Hybrid Technique for Practical Memory Bandwidth Partitioning on Commodity Servers,” in the Proceedings of the 27th International Conference on Parallel Architectures and Compilation Techniques (PACT), Nov. 2018. Myeonggyun Han, Seongdae Yu, and Woongki Baek, “Secure and Dynamic Core and Cache Partitioning for Safe and Efficient Server Consolidation,” in the Proceedings of the 18th IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid), May. 2018 (selected as a Best Paper Finalist). Myeonggyun Han, Jinsu Park, and Woongki Baek, “CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications,” in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE), Mar. 2017. Jinsu Park, Myeonggyun Han, Woongki Baek, “Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads,” IEEE International Symposium on Workload Characterization (IISWC), Sept. 2016. Experience Internship Undergraduate Researcher, Intelligent System Software Lab at UNIST Advisor: Prof. Woongki Baek December 2014 - February 2018 Campus Activity President, HeXA (a computer security research club) at UNIST March 2014 - February 2015 Staff, Security One Forum November 2014 - March 2015 Student mentor, 1st Super computing youth camp at UNIST August 2015 Honors and Awards NAVER Ph.D. Fellowship Award, 2020 The fellowship supports graduate students who have published excellent research papers on computing topics (5M KRW scholarship) Student Travel Grant, PACT 2019 28th International Conference on Parallel Architectures and Compilation Techniques (PACT) Best Paper Finalist, CCGrid 2018 Silver Prize, NAVER UNIST Undergraduate Poster Award 2017 The second place among the 31 participating teams Finalist, 2014 Korea Whitehat Contest (Team HeXA) Held by Ministry of National Defense and National Intelligence Service 5th place at preliminary contest</summary></entry></feed>
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;teaching-experience&quot;&gt;Teaching Experience&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;(Fall 2020) CSE301 Computer Architecture, UNIST&lt;/li&gt;
+      &lt;li&gt;(Spring 2020) CSE251 System Programming, UNIST&lt;/li&gt;
+      &lt;li&gt;(Fall 2019) ITP117 Introduction to AI Programming II, UNIST&lt;/li&gt;
+      &lt;li&gt;(Spring 2019) CSE301 Computer Architecture, UNIST&lt;/li&gt;
+      &lt;li&gt;(Fall 2018) CSE251 System Programming, UNIST&lt;/li&gt;
+      &lt;li&gt;(Spring 2018) CSE301 Computer Architecture, UNIST&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-experience&quot;&gt;Other Experience&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Internship&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Undergraduate Researcher, &lt;a href=&quot;http://issl.unist.ac.kr&quot;&gt;Intelligent System Software Lab&lt;/a&gt; at UNIST&lt;br /&gt;
+Advisor: &lt;a href=&quot;https://sites.google.com/site/woongkibaek/&quot;&gt;Prof. Woongki Baek&lt;/a&gt;&lt;br /&gt;
+December 2014 - February 2018 &lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Club Activity&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;President, &lt;a href=&quot;https://hexa-unist.github.io/about/&quot;&gt;HeXA&lt;/a&gt; (a computer security research club) at UNIST&lt;br /&gt;
+March 2014 - February 2015&lt;/li&gt;
+      &lt;li&gt;Staff, &lt;a href=&quot;https://www.facebook.com/seoneforum&quot;&gt;Security One Forum&lt;/a&gt;&lt;br /&gt;
+November 2014 - February 2015&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Fifth-year integrated M.S/Ph.D. student Intelligent System Software Lab (ISSL) Department of Computer Science and Engineering Ulsan National Institue of Science and Technology (UNIST) Ulsan, South Korea. hmg0228@unist.ac.kr Research Interests High-performance machine learning and big data computing High-performance and energy-efficient parallel computing on embedded systems Resource management techniques for efficient cloud computing Computer systems security Education Combined M.S./Ph.D. in Computer Science and Engineering, Ulsan National Institue of Science and Technology (UNIST), Korea Advisor: Prof. Woongki Baek March 2018 - Present B.S. in Computer Science and Engineering, Mathematical Science, Ulsan National Institue of Science and Technology (UNIST), Korea March 2013 - February 2018 Publications Sowoong Kim, Myeonggyun Han, and Woongki Baek, “DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX,” in the Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Apr. 2022. Myeonggyun Han and Woongki Baek, “HERTI: a Reinforcement Learning-Augmented System for Efficient Real-Time Inference on Heterogeneous Embedded Systems,” in the Proceedings of the 30th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2021. Jinsu Park, Seongbeom Park, Myeonggyun Han, and Woongki Baek, “PALM: Progress- and Locality-Aware Adaptive Task Migration for Efficient Thread Packing,” in the Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2021. Myeonggyun Han, Jinsu Park, and Woongki Baek, “Design and Implementation of a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications,” in the IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021. Myeonggyun Han and Woongki Baek, “SDRP: Safe, Efficient, and SLO-Aware Workload Consolidation through Secure and Dynamic Resource Partitioning,” in the IEEE Transactions on Services Computing (TSC), Accepted. Myeonggyun Han, Jihoon Hyun, Seongbeom Park, and Woongki Baek, “Hotness- and Lifetime-Aware Data Placement and Migration for High-Performance Deep Learning on Heterogeneous Memory Systems,” in the IEEE Transactions on Computers (TC), 2020. Myeonggyun Han, Jihoon Hyun, Seongbeom Park, Jinsu Park, and Woongki Baek, “MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference,” in the Proceedings of the 28th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2019. Jinsu Park, Seongbeom Park, Myeonggyun Han, and Woongki Baek, “POSTER: The Performance Impact of Thread Packing on Synchronization-Intensive Applications,” in the Proceedings of the 28th International Conference on Parallel Architectures and Compilation Techniques (PACT), Sept. 2019 (Poster). Jinsu Park, Seongbeom Park, Myeonggyun Han, Jihoon Hyun, and Woongki Baek, “HyPart: A Hybrid Technique for Practical Memory Bandwidth Partitioning on Commodity Servers,” in the Proceedings of the 27th International Conference on Parallel Architectures and Compilation Techniques (PACT), Nov. 2018. Myeonggyun Han, Seongdae Yu, and Woongki Baek, “Secure and Dynamic Core and Cache Partitioning for Safe and Efficient Server Consolidation,” in the Proceedings of the 18th IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid), May. 2018 (selected as a Best Paper Finalist). Myeonggyun Han, Jinsu Park, and Woongki Baek, “CHRT: a Criticality- and Heterogeneity-Aware Runtime System for Task-Parallel Applications,” in the Proceedings of the 2017 Design, Automation &amp;amp; Test in Europe Conference &amp;amp; Exhibition (DATE), Mar. 2017. Jinsu Park, Myeonggyun Han, Woongki Baek, “Quantifying the Performance Impact of Large Pages on In-Memory Big-Data Workloads,” IEEE International Symposium on Workload Characterization (IISWC), Sept. 2016. Patents Method and Apparatus of Partitioning Memory Bandwidth of System Woongki Baek, Jinsu Park, Seongbeom Park, Myeonggyun Han, and Jihoon Hyun US Patent No. US 11163705, November 2021. Korean Patent No. 10-2132598, July 2020. Apparatus and Method for Redistributing Hardware Resources for Server Consolidation Woongki Baek, Myeonggyun Han, and Seongdae Yu Korean Patent No. 10-2045039, November 2020. Runtime Management Apparatus for Heterogeneous Multi-Processing System and Method Thereof Woongki Baek, Myeonggyun Han, and Jinsu Park Korean Patent No. 10-2022972, September 2019. Honors and Awards NAVER Ph.D. Fellowship Award, 2020 The fellowship supports graduate students who have published excellent research papers on computing topics (5M KRW scholarship) Student Travel Grant, PACT 2019 28th International Conference on Parallel Architectures and Compilation Techniques (PACT) Best Paper Finalist, CCGrid 2018 Silver Prize, NAVER UNIST Undergraduate Poster Award 2017 The second place among the 31 participating teams Finalist, 2014 Korea Whitehat Contest (Team HeXA) Held by Ministry of National Defense and National Intelligence Service 5th place at preliminary contest Teaching Experience Teaching Assistant (Fall 2020) CSE301 Computer Architecture, UNIST (Spring 2020) CSE251 System Programming, UNIST (Fall 2019) ITP117 Introduction to AI Programming II, UNIST (Spring 2019) CSE301 Computer Architecture, UNIST (Fall 2018) CSE251 System Programming, UNIST (Spring 2018) CSE301 Computer Architecture, UNIST Other Experience Internship Undergraduate Researcher, Intelligent System Software Lab at UNIST Advisor: Prof. Woongki Baek December 2014 - February 2018 Club Activity President, HeXA (a computer security research club) at UNIST March 2014 - February 2015 Staff, Security One Forum November 2014 - February 2015</summary></entry></feed>
