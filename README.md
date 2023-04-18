@@ -29,3 +29,4 @@ Just type `make deploy`
 - 2021.02.07. - **Add new publication (PALM, IPDPS'21)**
 - 2021.07.16. - **Add new publication (HERTI, PACT'21)**
 - 2021.11.05. - **Add new publication (DPrime+DAbort, HPCA'22)**
+- 2023.04.18. - **Add new publication (MARF, ESORICS'23)**
