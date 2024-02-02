@@ -11,23 +11,3 @@
 ## Deploy
   
 Just type `make deploy`
-
-## History
-
-- 2016.10.22. - **Create an initial profile page**  
-- 2016.11.14. - **Add new publication (CHRT, DATE'17)**  
-- 2017.12.11. - **Add new honors/awards (NAVER UUPA Prize)**  
-- 2018.01.30. - **Add new publication (SDCP, CCGrid'18)**
-- 2018.03.02. - **Update education. Enter graduate school (UNIST).**
-- 2018.03.22. - **Add new honors/awards (Best paper finalist at CCGrid'18)**  
-- 2018.06.23. - **Add new publication (HyPart, PACT'18)**
-- 2019.07.10. - **Add new publication (MOSAIC, PACT'19)**
-- 2019.10.21. - **Add new publication (HALO, TC'20)**
-- 2020.09.05. - **Add new publication (SDRP, TSC (Accepted))**
-- 2020.09.29. - **Add new publication (CHRT, TPDS'21)**
-- 2020.12.24. - **Add new honors/awards (NAVER Ph.D. Fellowship Award)**  
-- 2021.02.07. - **Add new publication (PALM, IPDPS'21)**
-- 2021.07.16. - **Add new publication (HERTI, PACT'21)**
-- 2021.11.05. - **Add new publication (DPrime+DAbort, HPCA'22)**
-- 2023.04.18. - **Add new publication (MARF, ESORICS'23)**
-- 2023.11.28. - **Add new publication (COSMOS, Access'23)**
