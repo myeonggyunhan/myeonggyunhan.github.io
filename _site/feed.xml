@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2026-05-28T17:27:56+09:00</updated><id>http://0.0.0.0:8000/feed.xml</id><title type="html">Myeonggyun Han</title><subtitle>Assistant Professor at KNU</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2026-05-28T00:00:00+09:00</published><updated>2026-05-28T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/"><![CDATA[<style>  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2026-05-28T17:36:14+09:00</updated><id>http://0.0.0.0:8000/feed.xml</id><title type="html">Myeonggyun Han</title><subtitle>Assistant Professor at KNU</subtitle><entry><title type="html">Profile</title><link href="http://0.0.0.0:8000/Profile/" rel="alternate" type="text/html" title="Profile" /><published>2026-05-28T00:00:00+09:00</published><updated>2026-05-28T00:00:00+09:00</updated><id>http://0.0.0.0:8000/Profile</id><content type="html" xml:base="http://0.0.0.0:8000/Profile/"><![CDATA[<style>  
 .profile-box{display:flex;align-items:flex-start;gap:40px;padding-top:35px;font-family:'Helvetica Neue',Arial,sans-serif;}  
 .profile-photo{width:195px;border-radius:4px;}  
 .profile-name{margin:20px 0 16px 0;font-size:42px;font-weight:300;line-height:1.05;color:#111;}  
@@ -9,8 +9,8 @@
   
 @media (max-width: 700px){  
   .profile-box{display:block;margin-top:20px;}  
-  .profile-photo{width:250px;max-width:100%;margin-bottom:14px;}  
-  .profile-name{font-size:34px;margin-bottom:16px;}  
+  .profile-photo{width:250px;max-width:100%;margin:0 auto 18px auto;display:block;}  
+  .profile-name{font-size:34px;margin-bottom:16px;font-weight:300;line-height:1.05;color:#111;text-align:center;}  
   .profile-info{font-size:18px;line-height:1.55;}  
   .profile-icons{font-size:24px;gap:8px;}  
 }  
